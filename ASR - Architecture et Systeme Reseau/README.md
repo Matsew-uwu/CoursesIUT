@@ -12,7 +12,7 @@
 - [C6 - Domaine Windows](https://github.com/Matsew-uwu/CoursesIUT/blob/main/ASR%20-%20Architecture%20et%20Systeme%20Reseau/C6%20-%20Domaine%20Windows.pdf)
 - [C7 - Sécurity Enhanced Linux (SELinux)](https://github.com/Matsew-uwu/CoursesIUT/blob/main/ASR%20-%20Architecture%20et%20Systeme%20Reseau/C7%20-%20SELinux.pdf)
 
-## Supports complémentaire
+## Supports complémentaires
 - [CTD - Distribution Linux](https://github.com/Matsew-uwu/CoursesIUT/blob/main/ASR%20-%20Architecture%20et%20Systeme%20Reseau/CTD%20-%20Distributions%20Linux.pdf)
 - [CTD - Démarrage Linux](https://github.com/Matsew-uwu/CoursesIUT/blob/main/ASR%20-%20Architecture%20et%20Systeme%20Reseau/CTD%20-%20D%C3%A9marrage%20Linux.pdf)
 - [CTD - Gestion des Processus](https://github.com/Matsew-uwu/CoursesIUT/blob/main/ASR%20-%20Architecture%20et%20Systeme%20Reseau/CTD%20-%20Processus.pdf)
